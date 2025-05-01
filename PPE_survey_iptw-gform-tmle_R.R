@@ -1,4 +1,9 @@
+# R Code to Implement the Approaches Used in:
+# "Causal Inference and Survey Data in Paediatric Epidemiology: Generalizing Treatment Effects from Observational Data"
+#  by L. Burgos-Ochoa and F.J. Clouth
 
+# This script provides the R code to replicate the causal inference methods
+# applied in the paper, including IPTW, G-computation, and TMLE with survey data.
 # Load necessary libraries (make sure to have these packages installed)
 
 library(haven)  # for reading .xpt files, the default in NHANES
